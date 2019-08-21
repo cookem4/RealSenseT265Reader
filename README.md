@@ -1,1 +1,2 @@
 # RealSenseT265Reader
+This project is used to record position and orientation data from the camera and append it to a CSV file. This allows the trajectory and orientation of the T265 camera to be plotted in time. This is different from the T265LiveCamData project as it appends to a CSV file to record all data points of a path instead of overwriting a single line of a CSV file to just have the current position. 
